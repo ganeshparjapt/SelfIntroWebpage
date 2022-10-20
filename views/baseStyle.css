@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#navbar{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(51, 17, 17);
+    color: white;
+}
+#meetme{
+    justify-content: center;
+    align-items: center;
+}
+#haspbc{
+    justify-content: end;
+}
