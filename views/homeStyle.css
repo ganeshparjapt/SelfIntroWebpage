@@ -1,3 +1,13 @@
 #home{
     color: rgb(62, 22, 204);
+    background-color: rgb(167, 132, 132);
+    height: 800px;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    margin-top: 500px;
+    margin-left: 300px;
+    border: 2px solid red;
+    border-radius: 10px;
 }

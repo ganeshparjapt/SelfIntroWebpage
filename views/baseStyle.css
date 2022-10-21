@@ -5,15 +5,36 @@
 
 #navbar{
     display: flex;
-    height: 100px;
+    height: 60px;
     width: 100%;
     background-color: rgb(51, 17, 17);
     color: white;
 }
 #meetme{
-    justify-content: center;
-    align-items: center;
+    font-size: 2rem;
+    margin-top: 9px;
+    margin-left: 8px;
 }
 #haspbc{
-    justify-content: end;
+ 
+}
+#haspbc ul{
+    margin-left: 102px;
+    margin-top: 17px;
+}
+#haspbc ul li{
+    
+    display: inline;
+    margin-left: 70px;
+    font-size: 1.5rem;
+    list-style: none;
+
+}
+#navbar div ul{
+   
+}
+#haspbc ul li a{
+    
+    font-style: normal;
+
 }
